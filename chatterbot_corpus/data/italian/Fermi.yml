@@ -1,0 +1,132 @@
+categories:
+  - scuola
+  - dirigenti
+  - collaboratori_scolastici
+  - laboratori
+  - indirizzi
+  - organizzazione
+  - trasporti
+
+conversations:
+
+  # --- DIRIGENZA ---
+  - - "Chi è la preside del Fermi di Policoro?"
+    - "La dirigente scolastica dell’IIS Enrico Fermi di Policoro è la prof.ssa Giovanna Tarantino."  
+
+  - - "Qual è il ruolo della dirigente scolastica?"
+    - - "La dirigente coordina l’istituto, prende decisioni sull’organizzazione scolastica, supervisiona il corpo docente e rappresenta la scuola all’esterno."
+
+  - - "Posso fissare un appuntamento con la preside?"
+    - - "Sì. Puoi chiedere un appuntamento tramite la segreteria della scuola nella sede di via Puglia 8, Policoro."
+
+  - - "Ci sono dei vicepresidi?"
+    - - "Sì, ci sono vicepresidi che affiancano la dirigente nella gestione scolastica e nelle decisioni strategiche."
+
+  # --- COLLABORATORI SCOLASTICI ---
+  - - "Chi sono i collaboratori scolastici al Fermi di Policoro?"
+    - - "Sono il personale ATA che si occupa di accoglienza, sorveglianza e pulizia degli spazi scolastici."
+
+  - - "Quali compiti svolgono i collaboratori scolastici?"
+    - - "Garantiscono la pulizia dei corridoi e delle aule, controllano gli accessi e aiutano gli studenti se necessario."
+
+  - - "Se ho bisogno di aiuto in scuola posso rivolgermi a un collaboratore scolastico?"
+    - - "Certo, i collaboratori scolastici sono a disposizione per orientarti, segnalare problemi o darti indicazioni."
+
+  # --- TRASPORTI SCOLASTICI ---
+  - - "Come fanno gli studenti che vivono fuori Policoro a frequentare il Fermi?"
+    - - "Gli studenti possono utilizzare il servizio di trasporto scolastico gestito dal Comune di Policoro."  
+
+  - - "Come si iscrive al trasporto scolastico per l’anno scolastico?"
+    - - "Bisogna presentare domanda entro una certa scadenza tramite il portale Dedalo.top, come indicato nell’avviso del Comune." :contentReference[oaicite:0]{index=0}  
+
+  - - "Il servizio di trasporto scolastico è garantito anche per gli studenti delle superiori?"
+    - - "Attualmente l’avviso pubblico riguarda principalmente studenti delle scuole d’infanzia, primarie e medie. Nei casi di posti liberi il servizio può essere valutato anche per altri alunni." :contentReference[oaicite:1]{index=1}  
+
+  - - "Ci sono scuolabus con corse per Policoro?"
+    - - "Sì, il Comune ha previsto un servizio scuolabus per alunni residenti in zone periferiche o rurali. :contentReference[oaicite:2]{index=2}"
+
+  # --- INDIRIZZI DI STUDIO DELL’IIS ENRICO FERMI POLICORO ---
+  - - "Quali indirizzi di studio offre il Fermi di Policoro?"
+    - - "L’istituto offre: Liceo Scientifico (opzione tradizionale), Liceo Scientifico Scienze Applicate, Liceo Linguistico, e l’Istituto Tecnico Trasporti e Logistica." :contentReference[oaicite:3]{index=3}  
+
+  - - "Cos’è il Liceo Scientifico tradizionale al Fermi?"
+    - - "È il percorso classico dove si studiano matematica, fisica, biologia, chimica e scienze naturali, con un forte approccio teorico."  
+
+  - - "Cos’è l’opzione Scienze Applicate del Liceo Scientifico?"
+    - - "Nell’opzione Scienze Applicate c’è un focus più pratico: oltre alle materie scientifiche, si svolgono attività di laboratorio, informatica e percorsi tecnologici." :contentReference[oaicite:4]{index=4}  
+
+  - - "Cos’è il Liceo TrED (Scienze Applicate Quadriennale)?"
+    - - "TrED è il Liceo Scientifico a opzione Scienze Applicate in forma quadriennale. È pensato per chi vuole un percorso rapido con un forte orientamento tecnologico e digitale."  
+    - - "Gli studenti del TrED studiano matematica, scienze naturali, informatica, e applicazioni digitali, con laboratori tecnologici e digitali."
+
+  - - "Cosa fa il Liceo Linguistico?"
+    - - "Al Liceo Linguistico si studiano più lingue straniere (es. inglese, francese, tedesco) e si approfondiscono aspetti culturali e comunicativi." :contentReference[oaicite:5]{index=5}  
+
+  - - "Cos’è l’indirizzo Tecnico Trasporti e Logistica nel Fermi?"
+    - - "È un percorso tecnico che prepara gli studenti alla gestione, progettazione e conduzione dei sistemi di trasporto terrestri e navali." :contentReference[oaicite:6]{index=6}  
+    - - "Ci sono moduli su logistica, diritto dei trasporti, economia dei trasporti e anche aspetti tecnici legati al mezzo navale." :contentReference[oaicite:7]{index=7}  
+
+  - - "Ci sono altri indirizzi come il nautico o meccanico al Fermi di Policoro?"
+    - - "Secondo l’offerta formativa ufficiale non risulta un indirizzo nautico o meccanico: l’istituto propone i percorsi sopra indicati." :contentReference[oaicite:8]{index=8}  
+
+  # --- ATTIVITÀ SPORTIVE E EVENTI ---
+  - - "Quali attività sportive offre il Fermi di Policoro?"
+    - "L’IIS Enrico Fermi di Policoro organizza numerose attività sportive: calcio, pallavolo, basket, atletica, e tornei interni studenteschi."
+
+  - - "Ci sono gare interscolastiche a cui partecipa il Fermi?"
+    - - "Sì, il Fermi partecipa a competizioni interscolastiche di atletica, basket e volley con squadre studentesche."
+
+  - - "Organizzate tornei sportivi nella scuola?"
+    - - "Sì, la scuola organizza tornei sportivi tra classi per promuovere lo sport e lo spirito di squadra."
+
+  - - "C’è una squadra di calcio della scuola?"
+    - - "Sì, alcuni studenti partecipano a una squadra di calcio rappresentativa dell’istituto in tornei locali."
+
+  - - "Come posso partecipare ad una squadra sportiva della scuola?"
+    - - "Devi segnalare il tuo interesse al prof. di educazione fisica o al docente responsabile dello sport scolastico."
+
+  - - "Ci sono attività di atletica leggera?"
+    - - "Sì, la scuola promuove l’atletica leggera e organizza allenamenti e gare per gli studenti interessati."
+
+  - - "Fate progetti sportivi con altre scuole?"
+    - - "Si, il Fermi collabora con altre scuole per eventi sportivi, tornei interscolastici e giornate dedicate allo sport."
+
+  - - "È possibile usare l’impianto sportivo della scuola?"
+    - - "Dipende: alcuni spazi possono essere utilizzati per le attività scolastiche durante le ore di lezione, mentre altri sono riservati agli eventi sportivi."
+
+  - - "Ci sono giornate sportive o settimane dello sport?"
+    - - "Sì, la scuola organizza giornate dello sport dedicate agli studenti, per promuovere l’attività fisica e il benessere."
+
+  - - "Il Fermi ha una palestra o campi sportivi?"
+    - - "Attualmente la scuola ha una palestra interna; sono anche in progetto o già previsti spazi esterni per campi di basket o volley."
+
+  - - "Gli studenti stranieri possono partecipare alle squadre sportive?"
+    - - "Sì, tutti gli studenti dell’istituto – indipendentemente dalla nazionalità – possono partecipare alle attività sportive e alle squadre."
+
+
+  # --- LABORATORI ---  
+  - - "Quali laboratori ha l’istituto?"
+    - - "Ci sono laboratori scientifici (fisica, chimica), laboratori informatici e spazi per attività tecnologiche."  
+
+  - - "Cosa offre il laboratorio informatico?"
+    - - "Computer, software di programmazione, sistemi di rete e spazio per sperimentare progetti tecnologici."  
+
+  - - "Cosa succede nel laboratorio di scienze / chimica?"
+    - - "Si fanno esperimenti chimici, analisi di soluzioni e attività di misurazione con attrezzature di laboratorio sicure."  
+
+  - - "Ci sono laboratori per fisica?"
+    - - "Sì, strumenti per studiare meccanica, elettricità, ottica e magnetismo vengono usati per esperimenti pratici."
+
+  # --- INFORMAZIONI UTILI E FAQ ---  
+  - - "Come contatto un docente se sono uno studente di un indirizzo tecnologico?"
+    - - "Puoi chiedere la mail o il contatto tramite la segreteria o attraverso il registro elettronico, se la scuola lo utilizza."  
+
+  - - "Come giustifico un’assenza o un ritardo?"
+    - - "Tramite il registro elettronico (se attivo) oppure con una nota firmata dai genitori da consegnare alla segreteria."
+
+  - - "Dove trovo il regolamento dell’istituto?"
+    - - "Il regolamento è pubblicato sul sito ufficiale dell’IIS Enrico Fermi di Policoro nella sezione 'Documenti' o 'Offerta formativa'."  
+
+  - - "Chi posso contattare se ho problemi con l’orario delle lezioni o con il mio indirizzo?"
+    - - "Puoi rivolgerti al coordinatore di classe, ai rappresentanti degli studenti oppure alla segreteria della scuola."
+

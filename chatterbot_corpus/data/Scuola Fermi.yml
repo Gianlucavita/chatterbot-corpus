@@ -1,0 +1,243 @@
+categories:
+  - scuola
+  - dirigenti
+  - collaboratori_scolastici
+  - laboratori
+  - indirizzi
+  - organizzazione
+  - trasporti
+
+conversations:
+
+  # --- DIRIGENZA ---
+  - - "Chi è la preside del Fermi di Policoro?"
+    - "La dirigente scolastica dell’IIS Enrico Fermi di Policoro è la prof.ssa Giovanna Tarantino."  
+
+  - - "Qual è il ruolo della dirigente scolastica?"
+    - "La dirigente coordina l’istituto, prende decisioni sull’organizzazione scolastica, supervisiona il corpo docente e rappresenta la scuola all’esterno."
+
+  - - "Posso fissare un appuntamento con la preside?"
+    - "Sì. Puoi chiedere un appuntamento tramite la segreteria della scuola nella sede di via Puglia 8, Policoro."
+
+  - - "Ci sono dei vicepresidi?"
+    - "Sì, ci sono vicepresidi che affiancano la dirigente nella gestione scolastica e nelle decisioni strategiche."
+
+  # --- COLLABORATORI SCOLASTICI ---
+  - - "Chi sono i collaboratori scolastici al Fermi di Policoro?"
+    - "Sono il personale ATA che si occupa di accoglienza, sorveglianza e pulizia degli spazi scolastici."
+
+  - - "Quali compiti svolgono i collaboratori scolastici?"
+    - "Garantiscono la pulizia dei corridoi e delle aule, controllano gli accessi e aiutano gli studenti se necessario."
+
+  - - "Se ho bisogno di aiuto in scuola posso rivolgermi a un collaboratore scolastico?"
+    - "Certo, i collaboratori scolastici sono a disposizione per orientarti, segnalare problemi o darti indicazioni."
+
+  # --- TRASPORTI SCOLASTICI ---
+  - - "Come fanno gli studenti che vivono fuori Policoro a frequentare il Fermi?"
+    - "Gli studenti possono utilizzare il servizio di trasporto scolastico gestito dal Comune di Policoro."  
+
+  - - "Come si iscrive al trasporto scolastico per l’anno scolastico?"
+    - "Bisogna presentare domanda entro una certa scadenza tramite il portale Dedalo.top, come indicato nell’avviso del Comune."   
+
+  - - "Il servizio di trasporto scolastico è garantito anche per gli studenti delle superiori?"
+    - "Attualmente l’avviso pubblico riguarda principalmente studenti delle scuole d’infanzia, primarie e medie. Nei casi di posti liberi il servizio può essere valutato anche per altri alunni."   
+
+  - - "Ci sono scuolabus con corse per Policoro?"
+    - "Sì, il Comune ha previsto un servizio scuolabus per alunni residenti in zone periferiche o rurali. 
+
+  # --- INDIRIZZI DI STUDIO DELL’IIS ENRICO FERMI POLICORO ---
+  - - "Quali indirizzi di studio offre il Fermi di Policoro?"
+    - "L’istituto offre: Liceo Scientifico (opzione tradizionale), Liceo Scientifico Scienze Applicate, Liceo Linguistico, e l’Istituto Tecnico Trasporti e Logistica."   
+
+  - - "Cos’è il Liceo Scientifico tradizionale al Fermi?"
+    - "È il percorso classico dove si studiano matematica, fisica, biologia, chimica e scienze naturali, con un forte approccio teorico."  
+
+  - - "Cos’è l’opzione Scienze Applicate del Liceo Scientifico?"
+    - "Nell’opzione Scienze Applicate c’è un focus più pratico: oltre alle materie scientifiche, si svolgono attività di laboratorio, informatica e percorsi tecnologici." 
+
+  - - "Cos’è il Liceo TrED (Scienze Applicate Quadriennale)?"
+    - "TrED è il Liceo Scientifico a opzione Scienze Applicate in forma quadriennale. È pensato per chi vuole un percorso rapido con un forte orientamento tecnologico e digitale."  
+    - "Gli studenti del TrED studiano matematica, scienze naturali, informatica, e applicazioni digitali, con laboratori tecnologici e digitali."
+
+  - - "Cosa fa il Liceo Linguistico?"
+    - "Al Liceo Linguistico si studiano più lingue straniere (es. inglese, francese, tedesco) e si approfondiscono aspetti culturali e comunicativi."
+    
+  - - "Cos’è l’indirizzo Tecnico Trasporti e Logistica nel Fermi?"
+    - "È un percorso tecnico che prepara gli studenti alla gestione, progettazione e conduzione dei sistemi di trasporto terrestri e navali."   
+    - "Ci sono moduli su logistica, diritto dei trasporti, economia dei trasporti e anche aspetti tecnici legati al mezzo navale." 
+    
+  - - "Ci sono altri indirizzi come il nautico o meccanico al Fermi di Policoro?"
+    - "Secondo l’offerta formativa ufficiale non risulta un indirizzo nautico o meccanico: l’istituto propone i percorsi sopra indicati."
+    
+  # --- ORARI SCOLASTICI E RICREAZIONE ---
+  - - "A che ora inizia la scuola al Fermi di Policoro?"
+    - "Le lezioni iniziano alle 08:00."
+
+  - - "A che ora terminano le lezioni?"
+    - "Le lezioni terminano generalmente alle 13:00, ma in base agli indirizzi e agli orari possono esserci rientri o moduli pomeridiani."
+
+  - - "Quando c’è la ricreazione al Fermi di Policoro?"
+    - "La ricreazione è dalle 10:50 alle 11:00."
+
+  - - "Quanto dura l’intervallo?"
+    - "L’intervallo dura 10 minuti, dalle 10:50 alle 11:00."
+
+  - - "Posso uscire durante la ricreazione?"
+    - "No, non è consentito uscire dal plesso durante l’intervallo. Gli studenti devono rimanere negli spazi autorizzati."
+
+  # --- OPEN DAY, ORIENTAMENTO E PRESENTAZIONE DELLA SCUOLA ---
+  - - "Il Fermi organizza Open Day?"
+    - "Sì, l’IIS Enrico Fermi di Policoro organizza ogni anno diversi Open Day dedicati alle famiglie e agli studenti delle scuole medie."
+
+  - - "Cosa si fa durante l’Open Day?"
+    - "Durante l’Open Day vengono presentati gli indirizzi di studio, i laboratori, le aule, i progetti PCTO e le attività sportive. Gli studenti possono anche partecipare a mini-lezioni dimostrative."
+
+  - - "Quando si svolgono gli Open Day?"
+    - "Gli Open Day si svolgono di solito tra dicembre e gennaio, con più date dedicate all’orientamento in ingresso."
+
+  - - "Come faccio a partecipare all’Open Day?"
+    - "Basta prenotarsi tramite il sito ufficiale della scuola o presentarsi nelle date indicate dall’istituto."
+
+  - - "I laboratori sono aperti durante l’Open Day?"
+    - "Sì, durante l’Open Day i laboratori scientifici, informatici e linguistici vengono aperti per mostrare le attività e le strumentazioni agli studenti e ai genitori."
+
+  - - "Gli studenti del Fermi partecipano agli Open Day?"
+    - "Sì, molti studenti collaborano come guide, presentano i laboratori e partecipano alle attività di orientamento."
+
+  # --- ATTIVITÀ SPORTIVE E EVENTI ---
+  - - "Quali attività sportive offre il Fermi di Policoro?"
+    - "L’IIS Enrico Fermi di Policoro organizza numerose attività sportive: calcio, pallavolo, basket, atletica, e tornei interni studenteschi."
+
+  - - "Ci sono gare interscolastiche a cui partecipa il Fermi?"
+    - "Sì, il Fermi partecipa a competizioni interscolastiche di atletica, basket e volley con squadre studentesche."
+
+  - - "Organizzate tornei sportivi nella scuola?"
+    - "Sì, la scuola organizza tornei sportivi tra classi per promuovere lo sport e lo spirito di squadra."
+
+  - - "C’è una squadra di calcio della scuola?"
+    - "Sì, alcuni studenti partecipano a una squadra di calcio rappresentativa dell’istituto in tornei locali."
+
+  - - "Come posso partecipare ad una squadra sportiva della scuola?"
+    - "Devi segnalare il tuo interesse al prof. di educazione fisica o al docente responsabile dello sport scolastico."
+
+  - - "Ci sono attività di atletica leggera?"
+    - "Sì, la scuola promuove l’atletica leggera e organizza allenamenti e gare per gli studenti interessati."
+
+  - - "Fate progetti sportivi con altre scuole?"
+    - "Si, il Fermi collabora con altre scuole per eventi sportivi, tornei interscolastici e giornate dedicate allo sport."
+
+  - - "È possibile usare l’impianto sportivo della scuola?"
+    - "Dipende: alcuni spazi possono essere utilizzati per le attività scolastiche durante le ore di lezione, mentre altri sono riservati agli eventi sportivi."
+
+  - - "Ci sono giornate sportive o settimane dello sport?"
+    - "Sì, la scuola organizza giornate dello sport dedicate agli studenti, per promuovere l’attività fisica e il benessere."
+
+  - - "Il Fermi ha una palestra o campi sportivi?"
+    - "Attualmente la scuola ha una palestra interna; sono anche in progetto o già previsti spazi esterni per campi di basket o volley."
+
+  - - "Gli studenti stranieri possono partecipare alle squadre sportive?"
+    - "Sì, tutti gli studenti dell’istituto – indipendentemente dalla nazionalità – possono partecipare alle attività sportive e alle squadre."
+
+
+  # --- LABORATORI ---  
+  - - "Quali laboratori ha l’istituto?"
+    - "Ci sono laboratori scientifici (fisica, chimica), laboratori informatici e spazi per attività tecnologiche."  
+
+ ## Laboratorio di Informatica
+  - - "Cosa trovo nel laboratorio di informatica?"
+    - "Nel laboratorio informatico ci sono postazioni con computer moderni, software per programmazione, schede elettroniche come Arduino o Raspberry Pi, stampanti e dispositivi di rete."
+
+  - - "Ci sono robot o kit di robotica nel laboratorio di informatica?"
+    - "Sì, ci sono kit come Arduino o piccoli robot per progetti di automazione e programmazione educativa."
+
+  - - "Che tipi di software posso usare lì?"
+    - "Puoi usare ambienti di sviluppo come Python, C/C++, IDE per progetto hardware, software di progettazione web e database."
+
+  - - "È possibile saldare o fare prototipi elettrici nel laboratorio di informatica?"
+    - "é presente una zona per la prototipazione con breadboard, componenti elettronici e strumenti di base: dipende da come la scuola ha attrezzato il laboratorio."
+
+  ## Laboratorio di Fisica
+  - - "Quali strumenti ci sono nel laboratorio di fisica?"
+    - "Nel laboratorio di fisica si trovano strumenti per misurare velocità, forza, elettricità, magnetismo e ottica: ad esempio pendoli, bobine, generatori di corrente, rivelatori, lenti, specchi e alimentatori."
+
+  - - "Si possono fare esperimenti con l’ottica?"
+    - "Sì: nel laboratorio di fisica è presente materiale ottico come lenti, specchi, laser di bassa potenza, reticoli, prismi."
+
+  - - "Ci sono strumentazioni per il magnetismo e l’elettricità?"
+    - "Sì, alimentatori, bobine, magneti, dispositivi per misurare corrente, voltmetri e oscilloscopi, se il laboratorio è ben attrezzato."
+
+  - - "È presente una lavagna interattiva o LIM?"
+    - "C'è una lavagna LIM o un proiettore per mostrare i grafici, dati sperimentali e presentazioni durante le lezioni di fisica."
+
+  ## Laboratorio di Chimica / Scienze Naturali
+  - - "Quali attrezzature ha il laboratorio di chimica?"
+    - "Ci sono banchi chimici, vetreria (beute, provette, cilindri), becher, pipette, agitatori, bilance analitiche, cappa aspirante e reagenti base per esperimenti didattici."
+
+  - - "Si possono fare reazioni chimiche reali?"
+    - "Sì, con supervisione è possibile svolgere reazioni didattiche, preparazione di soluzioni, titolazioni e analisi di pH."
+
+  - - "Ci sono microscopi?"
+    - "Nel laboratorio di scienze naturali ci sono microscopi ottici, vetrini portaoggetto, modelli di cellule e strumenti per osservare campioni biologici."
+
+  - - "È presente un frigo o un congelatore per conservare reagenti?"
+    - "C'è un piccolo frigorifero di laboratorio per conservare alcune sostanze, anche se non sempre nelle scuole."
+
+  ## Laboratorio Linguistico
+  - - "Quali attrezzature ci sono nel laboratorio linguistico?"
+    - "Nel laboratorio linguistico ci sono cuffie, microfoni, PC, software per l’ascolto, registrazione e simulazioni di conversazioni, forse anche registratori e lavagne multimediali."
+
+  - - "Si può fare pratica di conversazione o ascolto lì?"
+    - "Sì, il laboratorio linguistico è pensato per esercizi di comprensione orale, dialoghi simulati, registrazioni e attività di speaking."
+
+  - - "Gli studenti possono registrare la loro voce?"
+    - "Sì, usando microfoni e software per registrazione per poi riascoltare, analizzare la pronuncia e migliorare la competenza linguistica."
+
+  ## Laboratorio di Scienze / Biologia
+  - - "Cosa posso fare nel laboratorio di scienze naturali o biologia?"
+    - "Puoi osservare campioni biologici al microscopio, fare preparazioni di vetrini, studiare piante, cellule, strutture anatomiche o fare esperimenti di ecologia e ambientali."
+
+  - - "Quali strumenti biologici sono lì?"
+    - "Sono presenti microscopi (monoculari e stereomicroscopi), pipette, vetrini, modelli di organi, provette, colture cellulari (se la scuola lo consente)."
+
+  - - "Ci sono anche strumenti per analisi ambientali?"
+    - "Ci sono kit o strumenti per misurare pH, conducibilità, ossigeno disciolto o altre proprietà chimico-fisiche di campioni ambientali."
+
+  ## Laboratorio di Prototipazione / 3D 
+  - - "C’è un laboratorio per prototipi o stampa 3D?"
+    - "Se la scuola ha un laboratorio di tecnologia, potrebbe esserci una stampante 3D, un banco per il montaggio di circuiti e componenti meccanici."
+
+  - - "Quali attrezzature servono per la stampa 3D?"
+    - "Servono una stampante 3D (FDM o SLA), filamento (PLA, ABS), computer per modellazione CAD e software di slicing."
+
+  - - "Si possono montare circuiti meccanici o meccatronici?"
+    - "Sì, benché dipenda dalle risorse della scuola: se presente, ci possono essere schede meccaniche, motori, microcontrollori e sensori."
+
+      # --- AULA PODCAST (versione sintetica) ---
+  - - "Cos'è l'aula podcast del Fermi di Policoro?"
+    - "È uno spazio dedicato alla registrazione audio e video per progetti creativi, comunicazione scolastica e attività multimediali."
+
+  - - "Cosa si può fare nell'aula podcast?"
+    - "Si possono registrare podcast, interviste, video didattici e contenuti multimediali per i progetti dell’istituto."
+
+  - - "Quali attrezzature ci sono nell'aula podcast?"
+    - "Microfoni professionali, pannelli fonoassorbenti, mixer audio, pc con software di editing e luci per registrazioni video."
+
+  - - "Chi può usare l'aula podcast?"
+    - "L’aula può essere utilizzata dagli studenti e dai docenti previa autorizzazione o prenotazione."
+
+  - - "Serve una formazione per usare l’aula podcast?"
+    - "Sì, il docente responsabile mostra come usare microfoni, mixer e software prima di far lavorare gli studenti in autonomia."
+
+
+  # --- INFORMAZIONI UTILI E FAQ ---  
+  - - "Come contatto un docente se sono uno studente di un indirizzo tecnologico?"
+    - "Puoi chiedere la mail o il contatto tramite la segreteria o attraverso il registro elettronico, se la scuola lo utilizza."  
+
+  - - "Come giustifico un’assenza o un ritardo?"
+    - "Tramite il registro elettronico (se attivo) oppure con una nota firmata dai genitori da consegnare alla segreteria."
+
+  - - "Dove trovo il regolamento dell’istituto?"
+    - "Il regolamento è pubblicato sul sito ufficiale dell’IIS Enrico Fermi di Policoro nella sezione 'Documenti' o 'Offerta formativa'."  
+
+  - - "Chi posso contattare se ho problemi con l’orario delle lezioni o con il mio indirizzo?"
+    - "Puoi rivolgerti al coordinatore di classe, ai rappresentanti degli studenti oppure alla segreteria della scuola."
